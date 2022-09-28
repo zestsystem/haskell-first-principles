@@ -1,0 +1,1 @@
+multiplyPi x = x * pi
